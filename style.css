@@ -184,11 +184,11 @@ body {
 }
 
 .footer-email {
-  padding-left: 30px;
+  padding-left: 60px;
   background-image: url("img/icon-email-footer.svg");
 }
 
 .footer-phone {
-  padding-left: 25px;
+  padding-left: 45x;
   background-image: url("img/icon-phone-footer.svg");
 }
