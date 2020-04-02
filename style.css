@@ -42,7 +42,7 @@ body {
 }
 
 .header-phone {
-  padding-left: 25px;
+  padding-left: 30px;
   background-image: url("img/icon-phone-header.svg");
 }
 
@@ -184,11 +184,11 @@ body {
 }
 
 .footer-email {
-  padding-left: 60px;
+  padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
 }
 
 .footer-phone {
-  padding-left: 60;
+  padding-left: 30px;
   background-image: url("img/icon-phone-footer.svg");
 }
