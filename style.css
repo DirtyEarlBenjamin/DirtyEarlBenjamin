@@ -17,6 +17,9 @@ body {
   padding: 0 16px;
 }
 
+.use-image{
+    text-align:left;
+}
 .page-header {
   margin: 0;
   padding: 40px 0;
